@@ -10,7 +10,7 @@
 - <b>Austin Animal Center Cat Adoptability Modeling</b>
   - [AAC Modeling](https://github.com/mtapia-pacheco/aac_cat_adoptability)
 - <b>Introduction to Statistical Machine Learning Final Project</b>
-  - [Rainbow Six Siege Predictive Modeling]()
+  - [Rainbow Six Siege Predictive Modeling](https://github.com/mtapia-pacheco/pstat131_fp)
 
 <h2> 🤳📲 Connect with me:</h2>
 
