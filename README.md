@@ -10,7 +10,7 @@
 linkedin: https://www.linkedin.com/in/mariotapiapacheco/
 Handshake: https://app.joinhandshake.com/stu/users/24142624
 
-[![LinkedIn][1]][2]
+[![LinkedIn][1]][2] width = 100
 
 [1]: https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg
 [2]: https://www.linkedin.com/in/mariotapiapacheco/
