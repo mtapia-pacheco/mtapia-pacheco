@@ -15,7 +15,7 @@ Handshake: https://app.joinhandshake.com/stu/users/24142624
 [1]: https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg
 [2]: https://www.linkedin.com/in/mariotapiapacheco/
 
-[![Handshake][3]][4]
+[![Handshake, width = 100][3]][4]
 
 [3]: https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png
 [4]: [https://www.linkedin.com/in/mariotapiapacheco/](https://app.joinhandshake.com/stu/users/24142624)https://app.joinhandshake.com/stu/users/24142624
