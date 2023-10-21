@@ -17,7 +17,7 @@ Handshake: https://app.joinhandshake.com/stu/users/24142624
 
 [![Handshake][3]][4]
 
-[3]: https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png
+[3]: https://play-lh.googleusercontent.com/vYE9EZNjWSWt42dWI8EEl98pouRX5dnqBBH21Yc9mZgk92sL3sN64Pib8Xw60_WX-Q=w240-h480-rw
 [4]: [https://www.linkedin.com/in/mariotapiapacheco/](https://app.joinhandshake.com/stu/users/24142624)https://app.joinhandshake.com/stu/users/24142624
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
