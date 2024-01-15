@@ -11,7 +11,7 @@
 
 <h2>🤝✍️  Contributions:</h2>
 
-- <b>Introduction to Statistical Machine Learning Final Project (R)</b>
+- <b>SBHacks X Project (Python)</b>
   - [ResearcherMatcher](https://github.com/mtapia-pacheco/sbhacksX_fork)
  
 <h2>⏳⚠️  In-Progress Projects:</h2>
