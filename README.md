@@ -12,7 +12,7 @@
 <h2>🤝✍️  Contributions:</h2>
 
 - <b>SBHacks X Project (Python)</b>
-  - [ResearcherMatcher](https://github.com/mtapia-pacheco/sbhacksX_fork)
+  - [ResearcherMatcher](https://github.com/RhysMP/sbhacksX)
  
 <h2>⏳⚠️  In-Progress Projects:</h2>
 
