@@ -10,8 +10,9 @@
   - [World Happiness Report Data Exploration](https://github.com/mtapia-pacheco/pstat100_course_project)
 
 <h2>🤝✍️  Contributions:</h2>
+
 - <b>Introduction to Statistical Machine Learning Final Project (R)</b>
-  - [ResearcherMatcher](https://github.com/RhysMP/sbhacksX/tree/main)
+  - [ResearcherMatcher](https://github.com/mtapia-pacheco/sbhacksX_fork)
  
 <h2>⏳⚠️  In-Progress Projects:</h2>
 
