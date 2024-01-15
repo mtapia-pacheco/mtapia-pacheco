@@ -8,6 +8,10 @@
   - [AAC Modeling](https://github.com/mtapia-pacheco/aac_cat_adoptability)
 - <b>Data Science Concepts and Analysis Course Project (Python)</b>
   - [World Happiness Report Data Exploration](https://github.com/mtapia-pacheco/pstat100_course_project)
+
+<h2>🤝✍️  Contributions:</h2>
+- <b>Introduction to Statistical Machine Learning Final Project (R)</b>
+  - [ResearcherMatcher](https://github.com/RhysMP/sbhacksX/tree/main)
  
 <h2>⏳⚠️  In-Progress Projects:</h2>
 
