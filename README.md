@@ -9,7 +9,7 @@
 - <b>Data Science Concepts and Analysis Course Project (Python)</b>
   - [World Happiness Report Data Exploration](https://github.com/mtapia-pacheco/pstat100_course_project)
 
-<h2>🤝✍️  Contributions:</h2>
+<h2>🤝✍️  Project Contributions:</h2>
 
 - <b>SBHacks X Project (Python)</b>
   - [ResearcherMatcher](https://github.com/RhysMP/sbhacksX)
