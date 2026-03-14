@@ -8,11 +8,10 @@
 - <b>Statistical Machine Learning Final Project (R)</b>
   - [Rainbow Six Siege Predictive Modeling](https://github.com/mtapia-pacheco/pstat131_fp)
  
-<h2>Statistical Modeling Projects:</h2>
+<h2>Applied Statistical Modeling Projects:</h2>
+
 - <b>Housing Price Modeling on Real Estate Valuation (Python/R)</b>
-
   - [Housing Price Modeling](https://github.com/mtapia-pacheco/housing-price-modeling)
-
 
 <h2>Connect with me:</h2>
 
