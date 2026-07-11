@@ -5,6 +5,8 @@
 
 - <b>LLM-Powered Book Recommender System (Python)</b>
   - [Semantic Book Recommender](https://github.com/mtapia-pacheco/book-recommender/tree/main)
+- <b>IDX Exchange Internship (Python)</b>
+  - [California Real Estate Prediction Project](https://github.com/mtapia-pacheco/ca-property-close-price-prediction)
 - <b>Statistical Machine Learning Final Project (R)</b>
   - [Rainbow Six Siege Predictive Modeling](https://github.com/mtapia-pacheco/pstat131_fp)
  
