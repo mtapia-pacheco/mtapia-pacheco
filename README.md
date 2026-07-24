@@ -18,10 +18,8 @@
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="mtapiapacheco | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][LinkedIn]
-[<img align="left" alt="mariotapia | Handshake" width="22px" src="https://play-lh.googleusercontent.com/vYE9EZNjWSWt42dWI8EEl98pouRX5dnqBBH21Yc9mZgk92sL3sN64Pib8Xw60_WX-Q=w240-h480-rw"/>][Handshake]
 [<img align="left" alt="mariotapia | Website" width="22px" src="https://img.icons8.com/color/1200/domain--v1.jpg"/>][Website]
 
 [LinkedIn]: https://www.linkedin.com/in/mariotapiapacheco/
-[Handshake]: https://app.joinhandshake.com/stu/users/24142624
 [Website]: https://mtapia-pacheco.github.io/
 <!--
