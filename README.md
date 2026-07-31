@@ -1,6 +1,11 @@
 <h1>Hi, I'm Mario! </h1>
 <p>I'm an M.S. in Data Science student at UC San Diego focused on machine learning and applied statistical modeling. I completed my B.S. in Statistics and Data Science at UC Santa Barbara.</p>
 
+<h2>Research:</h2>
+
+- <b>EvoLen: DNA Tokenization and Foundation Model Benchmarking (Python/Shell)</b>
+  - [EvoLen Fine-Tuning Repository](https://github.com/mtapia-pacheco/evolen)
+
 <h2>Machine Learning Projects:</h2>
 
 - <b>LLM-Powered Book Recommender System (Python)</b>
