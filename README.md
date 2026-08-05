@@ -4,7 +4,7 @@
 <h2>Research:</h2>
 
 - <b>EvoLen: DNA Tokenization and Foundation Model Benchmarking (Python/Shell)</b>
-  - [EvoLen Fine-Tuning Repository](https://github.com/mtapia-pacheco/evolen)
+  - [EvoLen Fine-Tuning Repository](https://github.com/HN020719/EvoLen)
 
 <h2>Machine Learning Projects:</h2>
 
